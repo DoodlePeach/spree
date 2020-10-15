@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992064174464",
+    "firebase_url": "https://hop-technologies.firebaseio.com",
+    "project_id": "hop-technologies",
+    "storage_bucket": "hop-technologies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992064174464:android:9ff180a1365a1296fb2965",
+        "android_client_info": {
+          "package_name": "com.spree.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992064174464-bf6qv4tletf7rfgg5ic2ru6cbnbfi3bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsS04zo369iO7_5RCAj_L7nuAkWFDZDeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992064174464-bf6qv4tletf7rfgg5ic2ru6cbnbfi3bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
